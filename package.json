@@ -11,7 +11,7 @@
     "ios"
   ],
   "cordova": {
-    "id": "cordova-plugin-telerik-imagepicker",
+    "id": "cordova-plugin-sequence-imagepicker",
     "platforms": [
       "ios",
       "android",
@@ -25,5 +25,14 @@
   "engines": {
     "name": "cordova",
     "version": ">=3.5.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/rak13/cordova-plugin-sequence-imagepicker/issues"
+  },
+  "homepage": "https://github.com/rak13/cordova-plugin-sequence-imagepicker#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }
