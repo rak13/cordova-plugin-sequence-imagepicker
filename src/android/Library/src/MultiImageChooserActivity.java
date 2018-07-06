@@ -100,7 +100,7 @@ public class MultiImageChooserActivity extends AppCompatActivity implements
     private static final int CURSORLOADER_THUMBS = 0;
     private static final int CURSORLOADER_REAL = 1;
 
-    private Map<String, Integer> fileNames = new HashMap<String, Integer>();
+    private Map<String, Integer> fileNames = new LinkedHashMap<String, Integer>();
 
     private SparseBooleanArray checkStatus = new SparseBooleanArray();
 
