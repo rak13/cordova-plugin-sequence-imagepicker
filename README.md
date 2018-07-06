@@ -1,4 +1,4 @@
-cordova-sequence-imagePicker
+cordova-plugin-sequence-imagepicker
 ===================
 
 Cordova Plugin For Multiple Image Selection
